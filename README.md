@@ -8,14 +8,3 @@
 
 # Contact
 If you have any questions, please contact Fei Li at lifei@shu.edu.cn.
-
-# Citation
-If you find the repository helpful in your research, please cite the following paper, which is currently under peer review.
-
-@article{ZSRM,
-
-  title={Underwater Image Enhancement with Zero-Point Symmetry Prior and Reciprocal Mapping},
-  
-  author={Fei Li, Chang Liu, and Xiaomao Li}
-  
-}
