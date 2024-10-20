@@ -6,5 +6,8 @@
 1. Place the image to be tested into the 'image' folder.
 2. Please run 'main.m' file and view the corresponding result in the 'result' folder.
 
+# Paper
+Fei Li, Chang Liu, and Xiaomao Li, "Underwater Image Enhancement with Zero-Point Symmetry Prior and Reciprocal Mapping", Displays, 2024.
+
 # Contact
 If you have any questions, please contact Fei Li at lifei@shu.edu.cn.
