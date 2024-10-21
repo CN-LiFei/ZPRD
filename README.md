@@ -8,6 +8,7 @@
 
 # Paper
 Fei Li, Chang Liu, and Xiaomao Li, "Underwater Image Enhancement with Zero-Point Symmetry Prior and Reciprocal Mapping", Displays, 2024.
+https://doi.org/10.1016/j.displa.2024.102845
 
 # Contact
 If you have any questions, please contact Fei Li at lifei@shu.edu.cn.
